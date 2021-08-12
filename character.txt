@@ -1,3 +1,5 @@
 bird
 dog
 king
+Kitkat
+Rabbit
